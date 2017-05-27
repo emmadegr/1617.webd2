@@ -78,12 +78,12 @@ height:auto;
 }
 
 
-#content,
+.content,
 ul li a {
   box-shadow: 0px 1px 1px #5C5B58 ;
 }
 
-#block {
+.block {
   display: inline-block;
 
 
@@ -136,7 +136,7 @@ ul li a {
   opacity: 1;
 }
 
-.text {
+.text > p{
   background-color: hsla(165, 54%, 37%, 0.50);
    font-family: 'Avenir', sans-serif;
     text-align: center;
@@ -256,7 +256,6 @@ input[type=text]:focus {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
-
 
 
 
