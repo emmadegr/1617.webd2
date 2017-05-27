@@ -81,6 +81,7 @@ height:auto;
 .content,
 ul li a {
   box-shadow: 0px 1px 1px #5C5B58 ;
+   width:30%;
 }
 
 .block {
@@ -256,6 +257,7 @@ input[type=text]:focus {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+
 
 
 
